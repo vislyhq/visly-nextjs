@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@visly/core": "^1.0.9",
     "next": "10.0.3",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.13",
+    "@types/react": "^17.0.0",
+    "next-images": "^1.6.2",
+    "typescript": "^4.1.3"
   }
 }

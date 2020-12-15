@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Visly Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../assets/d7d2c5b4-4c7b-4efb-9c21-0ef70f800be8.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Visly Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../assets/925b1f14-e32f-4af1-b2ee-80132fd73b20.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Visly Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../assets/c775fc02-e85e-4e5f-b67a-b62e4ed19fb9.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../assets/f6299fee-6816-410d-94ea-3f0adfd7773d.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 900;
+    src: url('../assets/a9e80b8b-9fbd-438f-8908-99f6c24a1dda.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../assets/1c1d17c3-a8b3-4470-91c9-799061e844a1.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../assets/b943d17e-0f73-47db-9ed8-3092a78ce685.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    src: url('../assets/7302657c-bff2-4283-8927-a18602d83b8b.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    src: url('../assets/84a9ee70-620c-4c46-a81a-58a07a9b4311.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 200;
+    src: url('../assets/2dd35db1-bec6-40dd-bb0e-70ec310f1f22.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../assets/7d90ff2f-a49a-4e00-918d-34f499de31ed.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../assets/522ca0d5-9e5c-433f-a993-a8e390438353.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../assets/8ffb5e7c-c6fd-4c38-9a52-0b0fe0c7c16c.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 300;
+    src: url('../assets/da53116d-809e-4726-a976-61c20faa6cea.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../assets/d19114f6-f68d-4a58-9f9f-60e0fad9c944.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../assets/ffe3584e-a71f-447f-b3e6-55dd11eb2621.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../assets/285dad85-8ba3-4664-b402-9c7e2011a67e.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    src: url('../assets/98891849-38a5-4409-b4e9-e8518b4bbb59.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    src: url('../assets/d8ebad37-8a06-4a10-b35c-19bab815b52b.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100;
+    src: url('../assets/acdcd854-2e91-481c-99f6-3f6cad0b1220.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    src: url('../assets/8dc92bc2-2093-4247-9683-3ad3f62c1f0d.otf') format('truetype');
+}

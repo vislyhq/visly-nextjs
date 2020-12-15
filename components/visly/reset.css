@@ -1,0 +1,27 @@
+.__visly_reset_7X7HTLRqyD {
+    padding: 0;
+    border: 0;
+    outline: none;
+    border: none;
+    display: flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+    position: relative;
+    box-sizing: border-box;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: solid;
+    line-height: 1;
+    background-color: transparent;
+    text-overflow: ellipsis;
+    text-transform: none;
+    list-style-type: none;
+}
+
+.__visly_reset_7X7HTLRqyD > *:focus {
+    outline: none;
+}
+
+.__visly_reset_7X7HTLRqyD::placeholder {
+    opacity: 1;
+}
